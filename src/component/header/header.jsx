@@ -14,7 +14,7 @@ Header.prototype = {};
 
 // useState
 //const [dcc, setDcc] = useState("abcdf"); thì dcc: là value của (callback function name) setDcc
-//test comment
+
 
 // useState("abcdef") là giá trị hiện tại của dcc
 
