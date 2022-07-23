@@ -7,7 +7,7 @@ import ListItem from "../navbar/nav";
 Header.prototype = {};
 // component =>  props  >main : tham số dùng trong hàm
 //props is OBJECT  {propertie : value}
-
+//etetetetete
 // nếu khai báo dạng :
 // const { abc } = props ;
 // thì abc là properties của props
