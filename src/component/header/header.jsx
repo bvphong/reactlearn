@@ -8,6 +8,7 @@ Header.prototype = {};
 // component =>  props  >main : tham số dùng trong hàm
 //props is OBJECT  {propertie : value}
 //etetetetete
+//xóa dòng này đi
 // nếu khai báo dạng :
 // const { abc } = props ;
 // thì abc là properties của props
