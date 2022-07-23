@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  gap: 5px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 10px;
+  flex-grow: 1;
+}
+
+.sidebar {
+  width: 180px;
+  background-color: coral;
+}
+.sideBar p {
+  width: 180px;
+  text-align: center;
+}
+.sideBar {
+  width: 100%;
+}

@@ -1,0 +1,16 @@
+.itemCard {
+  width: 150px;
+  text-align: center;
+  border: 1px solid red;
+  border-radius: 5%;
+  height: 200px;
+  margin-top: 70px;
+}
+
+.text {
+  border-top: 3px solid red;
+}
+
+.itemCard button {
+  margin-bottom: 10px;
+}

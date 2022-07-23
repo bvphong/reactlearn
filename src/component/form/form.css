@@ -1,0 +1,30 @@
+.register {
+  position: absolute;
+  top: 70px;
+  left: 30%;
+  right: 30%;
+
+  min-width: 300px;
+  height: max-content;
+  line-height: 30px;
+  padding: 20px;
+  background-color: wheat;
+
+  opacity: 0.8;
+}
+
+.inBel {
+  display: flex;
+  justify-content: space-between;
+}
+
+.register button {
+  padding: 5px 10px;
+  margin-left: 118px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.register label {
+  font-weight: bold;
+}

@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  background-color: aqua;
+  line-height: 70px;
+}
+.list {
+  line-height: 1rem;
+}
+button {
+  margin: 0 30px;
+}
+
+.leftHeader button {
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+.rightHeader button {
+  width: 50px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.rightHeader > input {
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+}
